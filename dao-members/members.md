@@ -56,7 +56,7 @@ Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 ***
 
 
-### Steinar
+### Steinar 2
 
 ![](../.gitbook/assets/steinar.bmp)
 
