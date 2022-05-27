@@ -52,6 +52,10 @@ Talk to Colson on Discord: Colson#9571
 Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 {% endhint %}
 
+
+***
+
+
 ### Steinar
 
 ![](../.gitbook/assets/steinar.bmp)
